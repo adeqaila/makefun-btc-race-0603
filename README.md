@@ -1,7 +1,11 @@
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/adeqaila/makefun-btc-race-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/adeqaila/makefun-btc-race-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 # BTC Race 20261117-0603 — entry slot 1
 
 Bounty: "Race a BTC trading bot live for 24 hours"
-(`btc-race-24h-20261117-0603`, $250, top 10 paid, 1st $60).
+([`btc-race-24h-20261117-0603`](https://make.fun/bounty/btc-race-24h-20261117-0603), $250, top 10 paid, 1st $60).
 Opened 17 Nov 2026 06:03 UTC, deadline 17 Nov 2026 12:03 UTC (19:03 WIB).
 Race live 24h from 12:18 UTC 17 Nov → 12:18 UTC 18 Nov.
 
@@ -19,3 +23,5 @@ Race live 24h from 12:18 UTC 17 Nov → 12:18 UTC 18 Nov.
 
 This bot is from `~/workspace/makefun-btc-race-next-v2/main.py` (v2.1).
 Protocol agent-fun/bars-replay/v1; Python SDK shim byte-identical to the kit.
+
+Run: `python3 -P -s main.py` (grader runs it with `PYTHONHASHSEED=0`).
